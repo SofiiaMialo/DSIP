@@ -1,0 +1,54 @@
+4 COMPONENT IDENTIFICATION
+1. CPU model- Apple M3, cores - 8 (4 performance and 4 efficiency),core speed is in Mcbook is changing and it has its own frequency so 
+E-Cluster HW active frequency: 1318 MHz
+E-Cluster HW active residency:   1.75% (744 MHz:   0% 1044 MHz:  69% 1476 MHz: 6.7% 2004 MHz:  21% 2268 MHz: 3.3% 2556 MHz: .50% 2748 MHz:   0%)
+E-Cluster idle residency:  98.25%
+CPU 0 frequency: 1335 MHz
+CPU 0 active residency:  30.07% (744 MHz:   0% 1044 MHz:  20% 1476 MHz: 2.1% 2004 MHz: 6.4% 2268 MHz: 1.2% 2556 MHz: .17% 2748 MHz:   0%)
+CPU 0 idle residency:  69.93%
+CPU 1 frequency: 1354 MHz
+CPU 1 active residency:  26.13% (744 MHz:   0% 1044 MHz:  17% 1476 MHz: 2.5% 2004 MHz: 5.9% 2268 MHz: .92% 2556 MHz: .14% 2748 MHz:   0%)
+CPU 1 idle residency:  73.87%
+CPU 2 frequency: 1369 MHz
+CPU 2 active residency:  14.02% (744 MHz:   0% 1044 MHz: 8.6% 1476 MHz: 1.6% 2004 MHz: 3.1% 2268 MHz: .62% 2556 MHz: .08% 2748 MHz:   0%)
+CPU 2 idle residency:  85.98%
+CPU 3 frequency: 1369 MHz
+CPU 3 active residency:  11.19% (744 MHz:   0% 1044 MHz: 6.9% 1476 MHz: 1.2% 2004 MHz: 2.6% 2268 MHz: .42% 2556 MHz: .03% 2748 MHz:   0%)
+CPU 3 idle residency:  88.81%
+
+P-Cluster HW active frequency: 0 MHz
+P-Cluster HW active residency:   0.00% (816 MHz: 100% 1092 MHz:   0% 1356 MHz:   0% 1596 MHz:   0% 1884 MHz:   0% 2172 MHz:   0% 2424 MHz:   0% 2616 MHz:   0% 2808 MHz:   0% 2988 MHz:   0% 3144 MHz:   0% 3288 MHz:   0% 3420 MHz:   0% 3540 MHz:   0% 3636 MHz:   0% 3720 MHz:   0% 3780 MHz:   0% 3864 MHz:   0% 3960 MHz:   0% 4056 MHz:   0%)
+P-Cluster idle residency: 100.00%
+CPU 4 frequency: 0 MHz
+CPU 4 active residency:   0.00% (816 MHz:   0% 1092 MHz:   0% 1356 MHz:   0% 1596 MHz:   0% 1884 MHz:   0% 2172 MHz:   0% 2424 MHz:   0% 2616 MHz:   0% 2808 MHz:   0% 2988 MHz:   0% 3144 MHz:   0% 3288 MHz:   0% 3420 MHz:   0% 3540 MHz:   0% 3636 MHz:   0% 3720 MHz:   0% 3780 MHz:   0% 3864 MHz:   0% 3960 MHz:   0% 4056 MHz:   0%)
+CPU 4 idle residency: 100.00%
+CPU 5 frequency: 0 MHz
+CPU 5 active residency:   0.00% (816 MHz:   0% 1092 MHz:   0% 1356 MHz:   0% 1596 MHz:   0% 1884 MHz:   0% 2172 MHz:   0% 2424 MHz:   0% 2616 MHz:   0% 2808 MHz:   0% 2988 MHz:   0% 3144 MHz:   0% 3288 MHz:   0% 3420 MHz:   0% 3540 MHz:   0% 3636 MHz:   0% 3720 MHz:   0% 3780 MHz:   0% 3864 MHz:   0% 3960 MHz:   0% 4056 MHz:   0%)
+CPU 5 idle residency: 100.00%
+CPU 6 frequency: 0 MHz
+CPU 6 active residency:   0.00% (816 MHz:   0% 1092 MHz:   0% 1356 MHz:   0% 1596 MHz:   0% 1884 MHz:   0% 2172 MHz:   0% 2424 MHz:   0% 2616 MHz:   0% 2808 MHz:   0% 2988 MHz:   0% 3144 MHz:   0% 3288 MHz:   0% 3420 MHz:   0% 3540 MHz:   0% 3636 MHz:   0% 3720 MHz:   0% 3780 MHz:   0% 3864 MHz:   0% 3960 MHz:   0% 4056 MHz:   0%)
+CPU 6 idle residency: 100.00%
+CPU 7 frequency: 0 MHz
+CPU 7 active residency:   0.00% (816 MHz:   0% 1092 MHz:   0% 1356 MHz:   0% 1596 MHz:   0% 1884 MHz:   0% 2172 MHz:   0% 2424 MHz:   0% 2616 MHz:   0% 2808 MHz:   0% 2988 MHz:   0% 3144 MHz:   0% 3288 MHz:   0% 3420 MHz:   0% 3540 MHz:   0% 3636 MHz:   0% 3720 MHz:   0% 3780 MHz:   0% 3864 MHz:   0% 3960 MHz:   0% 4056 MHz:   0%)
+CPU 7 idle residency: 100.00%
+
+CPU Power: 93 mW
+GPU Power: 161 mW
+ANE Power: 0 mW
+Combined Power (CPU + GPU + ANE): 254 mW
+2. My RAM is 24 GB, type - LPDDR5 unified memory, speed - 6400 MT/s
+3. GPU- Apple M3, it has 10 cores, for GPU is dedicated 24 GB unified memory.
+4. System Firmware Version: 11881.101.1, as firmware updates are also connected with OS updates it was updated on April 16, 2025.
+
+
+5 BOOT ORDER
+My macBook doesnt have a traditional BIOS as for Windows. The default boot priority is the internal SSD.
+Yes, my computer can boot from a USD disk if only external booting is enabled and the USD device is sufficient. 
+
+
+6 SCREEN RESOLUTION
+Default screen resolution - 2560 × 1664 pixels.
+After I changed the display orientation to portrait mode, screen was rotated vertically, and the image became taller and narrower. From my point of view, it could be used for coding or reading documents. When I change resolution to 800 × 600, the image becomes large, blury and much less content could be fitted on the screen.
+
+
+

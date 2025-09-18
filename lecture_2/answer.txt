@@ -1,0 +1,13 @@
+776F726C64
+0x1840
+for hello_world(1bit).bmp image starts from 0x3E
+for hello_world(24bit).bmp image starts from 0x36
+
+1. How many disks do you have on your machine?
+I have only one disk
+2. For this disk:
+Model : Built-in 512 GB SSD—internal.
+Capacity: 512 GB.
+Read & Write Speeds: Sequential reads reach up to around 2,800 MB/s 
+Write speeds vary between 1,900–2,100 MB/s in tests 
+3. Partition layout: APFS filesystem inside a GUID Partition Map (GPT). It includes macOS System Volume,data volume, preboot, recovery, and VM volumes for system functions.

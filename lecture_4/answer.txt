@@ -1,0 +1,4 @@
+1. I have active drivers 246
+2. Drivers are located in /System/Library/Extensions/ and wi-Fi is handled by AppleBCMWLANCore.driver
+
+My browser Safari is downloaded in /Applications/Safari.app

@@ -1,0 +1,10 @@
+4 IP ADDRESS, ROUTING & WEBREQUESTS
+1. My IP address sue to link is 145.118.84.122, but when I searched in terminal i got 145.118.84.1
+2. when i turned on VPN i got 145.118.90.239. I got two differnt IP adresses because when VPN is turned on y internet goes through VPN server instead of my original public IP.
+3. My IP address is pulic because it is 145.118.84.1.
+4. Geolocation of my IP is 52.1583,4.4931
+5.First hub is 145.118.84.1 This is my default gateway. It’s the first device outside my Mac, so it has the lowest RTT.
+Last hub: ams17s12-in-f3.1e100.net (142.251.36.35) This is a Google edge server. The ams tag indicates the Amsterdam point-of-presence. RTT is still low  because it’s geographically close.
+6. The geo-location of the Google data center is "city": "Amsterdam", "region": "North Holland", "country": "NL",
+
+
